@@ -1,0 +1,42 @@
+# Ignorar archivos y directorios generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de entorno virtual
+venv/
+env/
+
+# Ignorar archivos de configuración sensibles
+config.ini
+secrets.json
+
+# Ignorar archivos de registros
+*.log
+
+# Ignorar archivos de dependencias y paquetes
+node_modules/
+packages/
+
+# Ignorar archivos de IDE y editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos compilados o generados
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignorar archivos de salida y caché
+*.bak
+*.swp
+*.tmp
+*.cache
+
+# Ignorar archivos de respaldo
+*.old
+*~

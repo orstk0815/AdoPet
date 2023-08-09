@@ -1,0 +1,28 @@
+En Django, el proyecto principal se denomina de manera predeterminada con el nombre del directorio en el que se crea el proyecto. Sin embargo, es común utilizar un nombre descriptivo para el proyecto principal en lugar de simplemente utilizar el nombre del directorio.
+
+Algunos nombres comunes para el proyecto principal en Django incluyen:
+
+"core"
+"backend"
+"main"
+"project"
+
+En cuanto a los nombres de las carpetas y aplicaciones dentro del proyecto, hay algunas convenciones comunes que se utilizan en la comunidad de Django. A continuación, se muestran algunos ejemplos:
+
+Carpeta 
+"static": Para almacenar archivos estáticos como hojas de estilo (CSS), archivos JavaScript y archivos de imágenes.
+"templates": Para almacenar las plantillas HTML utilizadas por las vistas.
+
+Aplicación
+"accounts" (autenticación y gestión de usuarios)
+"blog" (funcionalidad relacionada con un blog)
+"api" (construir una API utilizando Django REST Framework)
+"utils" (funciones y clases de utilidad que se utilizan en todo el proyecto)
+"users" (gestión de usuarios)
+"products" (gestión de productos)
+"orders" (gestión de pedidos)
+"auth" (autenticación y control de acceso)
+"dashboard" (panel de control)
+"notifications" (gestión de notificaciones)
+"gallery" (galería de imágenes)
+"payments" (procesamiento de pagos)
